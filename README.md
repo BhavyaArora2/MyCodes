@@ -1,2 +1,2 @@
 # MyCodes
-Includes the codes which I was coding since September-November
+This repository contains important codes related to arrays and data structures
